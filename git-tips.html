@@ -110,8 +110,11 @@ $ git commit -m &quot;Write key summary of changes here&quot;</code></pre>
 <pre class="r"><code>$ git pull -u origin master
 $ git push -u origin master</code></pre>
 <ul>
-<li>In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first.</li>
+<li><p>In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first.</p></li>
+<li><p>When we frequently want to update, we can combine a few commands in one go</p></li>
 </ul>
+<pre class="r"><code>$ git add . &amp;&amp; git commit -m &quot;Add message here&quot; &amp;&amp; git pull -u origin master 
+$ git push -u origin master</code></pre>
 </div>
 <div id="reset" class="section level3">
 <h3>Reset</h3>

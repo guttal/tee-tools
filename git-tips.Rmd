@@ -56,6 +56,12 @@ $ git push -u origin master
 
 * In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first. 
 
+* When we frequently want to update, we can combine a few commands in one go
+```{r eval=FALSE}
+$ git add . && git commit -m "Add message here" && git pull -u origin master 
+$ git push -u origin master
+```
+
 ### Reset 
 
 
