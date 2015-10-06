@@ -5,10 +5,6 @@ date: "6 October 2015"
 output: html_document
 ---
 
-### Useful links
-
-[Learn Git commands in 15 minutes](https://try.github.io)
-
 ### Frequently used commands
 
 * In the project directory and type the following set of commands to initlize and 
@@ -29,3 +25,20 @@ $ git push -u origin master
 
 * If you now go to http://github.com/GITLOGIN, you must find your files there! 
 
+* If you make changes to your files, then the following commands will update the files locally. 
+```{r eval=FALSE}
+$ git add modifiied-filenames
+$ git commit -m "Write key summary of changes here"
+```
+
+* Now move it to server
+```{r eval=FALSE}
+$ git pull -u origin master
+$ git push -u origin master
+```
+
+* In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first. 
+
+### Useful links
+
+[Learn Git commands in 15 minutes](https://try.github.io)

@@ -67,10 +67,6 @@ img {
 </div>
 
 
-<div id="useful-links" class="section level3">
-<h3>Useful links</h3>
-<p><a href="https://try.github.io">Learn Git commands in 15 minutes</a></p>
-</div>
 <div id="frequently-used-commands" class="section level3">
 <h3>Frequently used commands</h3>
 <ul>
@@ -88,8 +84,23 @@ $ git remote add origin git@github.com:guttal/git-tips.git</code></pre>
 <pre class="r"><code>$ git remote add origin git@github.com:GITLOGIN/git-tips.git
 $ git push -u origin master</code></pre>
 <ul>
-<li>If you now go to <a href="http://github.com/GITLOGIN" class="uri">http://github.com/GITLOGIN</a>, you must find your files there!</li>
+<li><p>If you now go to <a href="http://github.com/GITLOGIN" class="uri">http://github.com/GITLOGIN</a>, you must find your files there!</p></li>
+<li><p>If you make changes to your files, then the following commands will update the files locally.</p></li>
 </ul>
+<pre class="r"><code>$ git add modifiied-filenames
+$ git commit -m &quot;Write key summary of changes here&quot;</code></pre>
+<ul>
+<li>Now move it to server</li>
+</ul>
+<pre class="r"><code>$ git pull -u origin master
+$ git push -u origin master</code></pre>
+<ul>
+<li>In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first.</li>
+</ul>
+</div>
+<div id="useful-links" class="section level3">
+<h3>Useful links</h3>
+<p><a href="https://try.github.io">Learn Git commands in 15 minutes</a></p>
 </div>
 
 
