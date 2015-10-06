@@ -70,21 +70,34 @@ img {
 <div id="frequently-used-commands" class="section level3">
 <h3>Frequently used commands</h3>
 <ul>
-<li>In the project directory and type the following set of commands to initlize and</li>
+<li>Go to the project directory and initlize git.</li>
 </ul>
-<pre class="r"><code>$ git init
-$ git add .
-$ git status
-$ git commit -m &quot;First committ&quot;
-$ git log
-$ git remote add origin git@github.com:guttal/git-tips.git</code></pre>
+<pre class="r"><code>$ git init</code></pre>
 <ul>
-<li>Now move these files to the github server</li>
+<li>Now add files you want git to track.
+<ul>
+<li>If you want all files in the directory to be tracked, use: filenames = .</li>
+<li>If you want only certain extensions to be tracked, use: filenames = *.desiredextension</li>
+<li>If you want certain extensions to be ignored, create a file called .gitignore and list all extensions (preceded by <em>: for example, </em>.txt)</li>
+</ul></li>
 </ul>
-<pre class="r"><code>$ git remote add origin git@github.com:GITLOGIN/git-tips.git
+<pre class="r"><code>$ git add filesnames</code></pre>
+<ul>
+<li>Commit the changes made for the added filenames</li>
+</ul>
+<pre class="r"><code>$ git commit -m &quot;First commitment of life&quot;</code></pre>
+<ul>
+<li>Now, you can always check the status and logs of all commits with following commands.</li>
+</ul>
+<pre class="r"><code>$ git status
+$ git log</code></pre>
+<ul>
+<li>Now move these files to the github server where your login name is gitlogin</li>
+</ul>
+<pre class="r"><code>$ git remote add origin git@github.com:gitlogin/git-tips.git
 $ git push -u origin master</code></pre>
 <ul>
-<li><p>If you now go to <a href="http://github.com/GITLOGIN" class="uri">http://github.com/GITLOGIN</a>, you must find your files there!</p></li>
+<li><p>If you now go to <a href="http://github.com/gitlogin" class="uri">http://github.com/gitlogin</a>, you must find your files there!</p></li>
 <li><p>If you make changes to your files, then the following commands will update the files locally.</p></li>
 </ul>
 <pre class="r"><code>$ git add modifiied-filenames

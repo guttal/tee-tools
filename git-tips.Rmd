@@ -7,23 +7,40 @@ output: html_document
 
 ### Frequently used commands
 
-* In the project directory and type the following set of commands to initlize and 
+* Go to the project directory and initlize git.
 ```{r eval=FALSE}
 $ git init
-$ git add .
-$ git status
-$ git commit -m "First committ"
-$ git log
-$ git remote add origin git@github.com:guttal/git-tips.git
 ```
 
-* Now move these files to the github server
+* Now add files you want git to track.
+     + If you want all files in the directory to be tracked, use: filenames = . 
+     + If you want only certain extensions to be tracked, use: filenames = *.desiredextension
+     + If you want certain extensions to be ignored, create a file called .gitignore and list all extensions (preceded by *: for example, *.txt)
 ```{r eval=FALSE}
-$ git remote add origin git@github.com:GITLOGIN/git-tips.git
+$ git add filesnames
+```
+
+
+
+* Commit the changes made for the added filenames
+```{r eval=FALSE}
+$ git commit -m "First commitment of life"
+```
+
+* Now, you can always check the status and logs of all commits with following commands. 
+
+```{r eval=FALSE}
+$ git status
+$ git log
+```
+
+* Now move these files to the github server where your login name is gitlogin
+```{r eval=FALSE}
+$ git remote add origin git@github.com:gitlogin/git-tips.git
 $ git push -u origin master
 ```
 
-* If you now go to http://github.com/GITLOGIN, you must find your files there! 
+* If you now go to http://github.com/gitlogin, you must find your files there! 
 
 * If you make changes to your files, then the following commands will update the files locally. 
 ```{r eval=FALSE}
