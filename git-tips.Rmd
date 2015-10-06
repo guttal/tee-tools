@@ -5,8 +5,9 @@ date: "6 October 2015"
 output: html_document
 ---
 
-### Frequently used GIT commands
+## Frequently used GIT commands
 
+### Initialize, add, commit and move to server. 
 * Go to the project directory and initlize git.
 ```{r eval=FALSE}
 $ git init
@@ -19,7 +20,6 @@ $ git init
 ```{r eval=FALSE}
 $ git add filesnames
 ```
-
 
 
 * Commit the changes made for the added filenames
@@ -56,6 +56,12 @@ $ git push -u origin master
 
 * In the above, we first pulled before pushing our changes because if we have collaborators, then those changes must be updated on our files first. 
 
-### Useful links
+### Reset 
+
+
+### Branches 
+
+
+## Useful links
 
 [Learn Git commands in 15 minutes](https://try.github.io)
