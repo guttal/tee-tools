@@ -9,3 +9,23 @@ output: html_document
 
 [Learn Git commands in 15 minutes](https://try.github.io)
 
+### Frequently used commands
+
+* In the project directory and type the following set of commands to initlize and 
+```{r eval=FALSE}
+$ git init
+$ git add .
+$ git status
+$ git commit -m "First committ"
+$ git log
+$ git remote add origin git@github.com:guttal/git-tips.git
+```
+
+* Now move these files to the github server
+```{r eval=FALSE}
+$ git remote add origin git@github.com:GITLOGIN/git-tips.git
+$ git push -u origin master
+```
+
+* If you now go to http://github.com/GITLOGIN, you must find your files there! 
+
