@@ -1,5 +1,5 @@
 ---
-title: "guidelines-for-authorship"
+title: "guidelines-for-authorship (policy)"
 author: "Vishwesha Guttal"
 date: "7 October 2015"
 output: html_document

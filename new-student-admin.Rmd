@@ -1,0 +1,60 @@
+---
+title: "new-student-admin (admin)"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+## Useful information for new lab members
+
+### Letter of employment 
+
+Collect a letter from the adviser stating your appointment and duration. This serves as your proof of employment. Also useful for opening bank account.
+
+### Formal appointment 
+
+If you are formally appointed as Project Assistant / Project Trainee / JRF / SRF, then check with adviser on paper work. You will need to submit your CV and photocopies of the latest degree certificate and marks cards.
+
+### Bank account
+
+For project assistant/trainee positions, open an account in SBI or Canara Bank of IISc. You will need your appointment letter as proof of your address and perhaps one or two photographs to open the account. Your will be asked to provide your account number once the formal appointment letter arrives from the administration.
+
+### IISc security/ID card
+
+Take the "letter of employment" from the adviser to the finance and account office in front of JRD Tata library, pay the fee of id card (Rs.25), with this receipt go to the security office (near Prakruti) along withtwo stamp size photos, to get your IISc id card.  
+
+### Access to Library 
+
+If you want access to Biological Sciences Divisional Library (located on 1st floor of Biological Sciences Building), go to the library with your appointment letter (#1 above), fill some forms, and get adviser’s signature. Submit the form. The library has an excellent collection of books related to ecology, evolution and conservation (including mathematical ecology books). 
+
+### Lab Keys 
+
+Check if the adviser can provide you a key for lab. It is your responsibility to maintain the lab key without losing it since labs may have many expensive equipment as well as invaluable research related materials. 
+
+
+### Tech related:
+
+* Request for a CES email id, Lotka-Volterra login and/or ces-mailing list through your adviser to Mr. Janardhanan Pillai jp@ces.iisc.ernet.in
+
+* Proxy settings for LAN: Connect a lan cable from the student desk to your laptop. If you are sitting on any of the two quad-core student desks, they are both on Lotka-Volterra lab V-LAN. These are configs you need (for mac to to System Preferences -> Network and then Ethernet option on the left column):  
+
+Configure IPv4: Manually
+Subnet Mask: 255.255.255.0
+Gateway/Router: 10.58.97.1
+DNS: 10.16.25.15  AND/OR 10.16.25.13 
+Proxy: 10.58.97.XX  (check with students)
+
+If you use any other lan port in the lab, then changes will be in:
+Router: 10.58.13.1
+Proxy: 10.58.13.XX (check for what is XX)
+
+* Wireless: Go to SERC website (http://nitss.serc.iisc.ernet.in/?page_id=100) to download a form and submit at SERC after getting signature from your adviser. 
+
+* Softwares: If you need softwares, check SERC website for what IISc subscribes:
+http://www.serc.iisc.ernet.in/facilities/ComputingFacilities/software/software.html
+
+For specialized applications, you may need to buy softwares from lab budget. Ask your adviser. 
+
+### Leave from work 
+
+Leave policy is very flexible: it is upto you how you want to distribute your work (at home, at office and lab, at nights vs mornings). But its important to email the PI about absence on any working days, especially if you are travelling out of station.  

@@ -1,5 +1,5 @@
 ---
-title: "git-tips"
+title: "git-tips (skills)"
 author: "Vishwesha Guttal"
 date: "6 October 2015"
 output: html_document
