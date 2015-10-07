@@ -31,16 +31,26 @@ output: html_document
    + Simulations: System size. Are results specific to system size, did system reach steady-state, effect of specific parameters, etc?
    
 ## Critique the paper
-   + Is the question being addressed important enough? 
+   + Big Picture: Is the question being addressed important enough? 
+   + Does paper change the way you think about something, or is it a minor incremental knowledge?
    + Are there simpler approaches to answering the same question? 
    + Are there interesting insights beyond what authors say? This may help you create your own research questions. 
    + Are there implications of this study/method/results on my own research questions?
    
 ## Summarize the paper
-   + State the questions that authors are trying to address (two sentences). State their methods (two-three sentences). State their answers and conclusions (four to five sentences). If you can write all these on your own, you have actually understood the paper! 
-   + Write your view of the paper:
-   + State novelties and nice things the paper. Strengths in terms qn, method, etc. 
-   + State limitations of the paper, assumptions, etc.  
+If you are the reviewer of this paper for a journal, what would you write? Your summary of a paper could follow that format. 
+
+   + Summarize what they have done
+      + What is the broad background in which these research questions (two sentences)? 
+      + The questions that authors are trying to address (two to three sentences).  
+      + State their methods (two-three sentences). 
+      + State their answers and conclusions (four to five sentences). If you can write all these on your own, you have actually understood the paper! 
+      
+   + Now write your view of the paper:
+      + State novelties and nice things the paper. Strengths in terms qn, method, etc. 
+      + State major/fundamental issues with the paper. 
+      + State limitations of the assumptions, methods, inferences, etc. 
+      + Now write about key but minor improvements on figures, captions, writing, etc. 
    
 ## Collate all papers
    + Make an excell sheet to list paper
