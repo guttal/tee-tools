@@ -73,3 +73,5 @@ $ git push -u origin master
 [Learn git commands in 15 minutes](https://try.github.io)
 
 [Git for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+
+[Github desktop client](https://desktop.github.com/)
