@@ -16,6 +16,8 @@ This respository contains various documents that:
 
 [Workplace ethics]() (Incomplete)
 
+[Authorship guidelines](https://github.com/guttal/tee-tools/blob/master/guidelines-for-authorship.Rmd) (Incomplete)
+
 [Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd) (Incomplete)
 
 ## Helpful Tools/Skills for Research
