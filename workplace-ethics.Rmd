@@ -1,0 +1,22 @@
+---
+title: "workplace-ethics"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+# Workplace ethics
+
+## Academic integrity
+
+By joining the lab, you implicitly agree to follow ethical guidelines mentioned in the link below and various links that the following webpage refers to:
+
+http://www.iisc.ernet.in/students-corner/existingstudents-academicintegrity.php
+
+Any violation of ethical guidelines are taken very seriously and may result in termination of your contract/your stay in the lab. If you are not clear about anything, always talk to students in the lab and with the adviser. 
+
+If you are working on a thesis (masters or bachelors), and if you do not follow above guidelines, your thesis will not be signed even if it means a delay in your graduation (THIS HAS HAPPENED BEFORE, so take it seriously!).
+
+## Field ethics
+
+## Lab ethics

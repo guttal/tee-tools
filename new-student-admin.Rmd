@@ -31,22 +31,19 @@ If you want access to Biological Sciences Divisional Library (located on 1st flo
 
 Check if the adviser can provide you a key for lab. It is your responsibility to maintain the lab key without losing it since labs may have many expensive equipment as well as invaluable research related materials. 
 
-
-### Tech related:
+### Tech stuff
 
 * Request for a CES email id, Lotka-Volterra login and/or ces-mailing list through your adviser to Mr. Janardhanan Pillai jp@ces.iisc.ernet.in
 
-* Proxy settings for LAN: Connect a lan cable from the student desk to your laptop. If you are sitting on any of the two quad-core student desks, they are both on Lotka-Volterra lab V-LAN. These are configs you need (for mac to to System Preferences -> Network and then Ethernet option on the left column):  
-
-Configure IPv4: Manually
-Subnet Mask: 255.255.255.0
-Gateway/Router: 10.58.97.1
-DNS: 10.16.25.15  AND/OR 10.16.25.13 
-Proxy: 10.58.97.XX  (check with students)
-
-If you use any other lan port in the lab, then changes will be in:
-Router: 10.58.13.1
-Proxy: 10.58.13.XX (check for what is XX)
+* Proxy settings for LAN (connect a lan cable from the student desk to your laptop): If you are sitting on any of the two student desks, they are both on Lotka-Volterra lab V-LAN. These are configs you need (for mac to to System Preferences -> Network and then Ethernet option on the left column):  
+    + Configure IPv4: Manually
+    + Subnet Mask: 255.255.255.0
+    + Gateway/Router: 10.58.97.1
+    + DNS: 10.16.25.15  AND/OR 10.16.25.13 
+    + Proxy: 10.58.97.XX  (check with students)
+* Proxy settings for LAN, if you use any other lan port in the lab, then changes will be in:
+    + Router: 10.58.13.1
+    + Proxy: 10.58.13.XX (check for what is XX)
 
 * Wireless: Go to SERC website (http://nitss.serc.iisc.ernet.in/?page_id=100) to download a form and submit at SERC after getting signature from your adviser. 
 

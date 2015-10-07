@@ -1,0 +1,25 @@
+---
+title: "doing-science (skills)"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+
+#Lab expectations
+
+## Doing science
+
+To do good science, there is no substitute for quality time spent thinking about and working on your project. To do well in your project, you need to be focussed but you should also develop broader interest in all areas of ecology (and all of science!) even if you do not find them to be of immediate relevance to your work. Note that the lab’s work is highly interdisciplinary and you can do good work only by appreciating and critiquing different ways of doing science. Get involved in scientific discussions as much as you can, in lab meetings, journal club meetings, departmental seminars & documentaries, etc. Some of the best ideas come in informal settings, so talk with your friends during lunch/coffee/tea breaks. Put simply: be curious about nature! 
+
+However, don’t spend all your time at your desk unless there is some deadline looming over you. Go for walks on our beautiful campus, or go out into the city (if you don’t mind noise and traffic!), watch movies and read fiction -- any hobby that keeps you energized. Basically have fun in both your academic and non-academic life. All these will help you do good science.
+
+Other resources: There is a resource link on the lab webpage which lists a number of articles on doing good science: http://teelabiisc.wordpress.com/resources/
+
+## Updates and meetings with adviser
+
+With regard to your specific project, it is very important to talk to the advisor freely and frankly, to understand what are the job expectations. Its always a good idea to update your advisor at least once a week on your progress, to discuss if you are on the right track, to resolve difficulties, etc. Even the most reasonable advisors misinterpret lack of updates as lack of work, so its better to update even if there is nothing much to say (preferably explaining why)!
+
+## Number of hours, output, etc. 
+
+## Absence from lab, etc. 

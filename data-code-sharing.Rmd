@@ -1,0 +1,12 @@
+---
+title: "data-code-sharing"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+# Data and Code sharing policy
+
+## Code sharing policy
+
+## Data sharing policy
