@@ -1,5 +1,5 @@
 ---
-title: "workplace-ethics"
+title: "workplace-ethics (policy)"
 author: "Vishwesha Guttal"
 date: "7 October 2015"
 output: html_document

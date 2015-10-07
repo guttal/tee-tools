@@ -1,10 +1,9 @@
 ---
-title: "doing-science (skills)"
+title: "doing-science (policy)"
 author: "Vishwesha Guttal"
 date: "7 October 2015"
 output: html_document
 ---
-
 
 #Lab expectations
 
