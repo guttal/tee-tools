@@ -1,0 +1,57 @@
+---
+title: "guidelines-for-authorship"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+# Guiding Principles for Manuscript Authorship
+
+Here is a draft of guiding principles for authorship on manuscripts written based on our lab’s research. This was written after a discussion in the lab about authorship, and also with inputs from various colleagues at CES. Every project and manuscript will have its own criteria that can never be explicitly known in advance. Therefore, these need to be seen as broad guidelines rather than rules. 
+
+## Contributions
+
+All authors of a manuscript should make substantial contributions in one or more of the following: ideas, study design, conducting the experiments, data-collection, programming, model building, analysis, and interpretation/synthesis of results. 
+
+## Corresponding Author 
+
+As a general rule, the lab adviser will be a corresponding author for manuscripts arising out of lab’s main research projects. However, we encourage students also to be corresponding authors (sometimes called co-corresponding authors). 
+
+The criterion to become a corresponding author is that the student makes substantial contribution in all of the following three parts of the research project: designing, executing and writing up the project. Student should have obtained comprehensive understanding of the project and its background to be able to correspond with any expert in the field about the work. Any student who is a first author on a manuscript is also a corresponding author, but there could be rare exceptions. Exceptions can arise when student do not fulfill above criteria, and/or the student has already moved onto an entirely different field, or is very likely to do so, in which case, the correspondences are better handled by the lab adviser. 
+
+## Projects involving multiple short-term students
+
+Short-term students will qualify to be authors on lab manuscripts if they contribute in one or both of the following ways:
+   + In general, if they have contributed a figure to the manuscript with substantial technical and analytical inputs and if they understand its interpretation correctly along with the broader context of the paper, they should qualify as coauthors, even if it the idea was not their own. 
+   + They are involved in the writing of the manuscript (i.e., a good part of it).  
+
+Long-term PhD students, post-docs  and project assistants, at the stage of writing their papers, should try and involve short-term students who have previously worked on the project.. If they have already left the lab, ask if they would be interested in participating. If they are in some other lab, make sure they get their current advisers’ consent. If they cannot participate in writing, re-assess their contribution at the end of completion of writing the manuscript. 
+
+## Acknowledging assistance 
+
+Students who did not qualify as coauthors but did some work in the lab on that project should be properly acknowledged in the acknowledgement section of the manuscript (preferably with specific contribution made). They should be sent a copy of the draft of the manuscript soliciting comments. If the adviser and later students who worked on the project think it is appropriate, they may ask whether the first student is expecting an authorship. 
+
+   + From students point of view: Keep a record of all of your work properly (data collection, analyses, codes, etc). Maintain a log-book of your progress and discussions with the adviser which will come in handy to resolve grey areas or disputes related to authorship issues.  
+
+## Authorship order 
+
+There are various cultural factors that differ from discipline to discipline that determines authorship order. In ecology, typically the lab PI is the last author (also called senior author - I hate this usage). Among the student contributors, the one with maximum contribution will be the first author. Remaining are listed from second author onwards either in decreasing order of contribution or alphabetically. The acknwoledgement section should be used to described to provide details of individual contributions. 
+
+## Gray areas:
+
+   + Papers written based on experiments that were improvements of earlier failed experiments. Should the student who conducted the experiments which failed be offered authorship?
+
+Answer would be an yes if the better design was thought of by the student. 
+
+   + A student is involved only in the conducting of the experiment or field data collection. The study design, analysis and writing are done by someone else. Should this student be a coauthor on the manuscript? 
+A student writes a short code for an analysis of a bigger theoretical project. This code is used in the final analysis that leads to publication. Should this student be a coauthor on the manuscript? 
+
+   + In such cases, the advisor and student should talk in the beginning about expectations so there are no surprises about authorship etc later. For e.g., the adviser could say, “if you want to be an author on this work, it would require (a) some substantial contribution in terms of analysis so at least 1 publication-ready figure was created by you, (b) writing a large part of the paper, (c) improving the concept of the paper by adding a new idea or experiment. Any or all of the above qualifies you as an author.”
+
+## References
+
+### Acknowledgements
+
+Thanks to Hari Sridhar and other lab members on inputs in preparing the document
+
+# We still need to add guidelines about authorship order, both student-superviser order and main student-other contributors order. 

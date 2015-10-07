@@ -1,0 +1,50 @@
+---
+title: "how-to-read-papers"
+author: "Vishwesha Guttal"
+date: "7 October 2015"
+output: html_document
+---
+
+# Finding, skimming, reading, critiquing, and summarizing research papers
+
+## How to find a paper?
+   + A recent review article
+   + Find “classics” in that area (ask experts)
+   + Go to the webpages of key people in the field and find new papers! 
+   + Look at citations of review or key articles in google scholar
+   + Ask your supervisor!
+   + Track papers on google scholar (My updates feature)
+   + Follow relevant people on google scholar
+   
+## Skim the paper
+   + Identify the questions that the paper intends to answer: Read the abstract and typically the last part of Introduction. 
+   + Go through figures and captions to find out the answer (the first paragraph of the  Discussion section can also help as summary in many journals).
+   + Check if the answer actually answers the question. Identify if there are any gaps in going from results to inference. 
+   + Put things in perspective: Is the question itself interesting, worth asking, and are there better ways of doing it? 
+   
+## Read the paper
+   + Underline important sentences, note down 
+   + Study technical and methodological aspects: Are design and methods appropriate for the question?  
+   + Is the design for obtaining results from data correct for the question? Is there a key aspect of method that could confound interpretations? 
+   + Controls: Are there proper controls for experimental work? How is lack of control recognized and worked about (like bootstrap) in a field study? 
+   + Models: What are model assumptions? Are they realistic? Are they missing key model assumption that can influence the results? 
+   + Simulations: System size. Are results specific to system size, did system reach steady-state, effect of specific parameters, etc?
+   
+## Critique the paper
+   + Is the question being addressed important enough? 
+   + Are there simpler approaches to answering the same question? 
+   + Are there interesting insights beyond what authors say? This may help you create your own research questions. 
+   + Are there implications of this study/method/results on my own research questions?
+   
+## Summarize the paper
+   + State the questions that authors are trying to address (two sentences). State their methods (two-three sentences). State their answers and conclusions (four to five sentences). If you can write all these on your own, you have actually understood the paper! 
+   + Write your view of the paper:
+   + State novelties and nice things the paper. Strengths in terms qn, method, etc. 
+   + State limitations of the paper, assumptions, etc.  
+   
+## Collate all papers
+   + Make an excell sheet to list paper
+   + Think of a theme and categories (like selfish herd hypothesis, mixed species flock, etc)
+   + Check box as yes/no/may be for each paper. 
+
+
