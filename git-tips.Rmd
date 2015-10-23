@@ -7,7 +7,7 @@ output: html_document
 
 ## Frequently used GIT commands
 
-### Initialize, add, commit and move to server. 
+### Initialize, add, commit 
 * Go to the project directory and initlize git.
 ```{r eval=FALSE}
 $ git init
@@ -34,7 +34,8 @@ $ git status
 $ git log
 ```
 
-* Now move these files to the github server where your login name is gitlogin
+### Move files from computer to github webpage/login
+* This following specific step is required only the first time. Move these files to the github server where your login name is gitlogin
 ```{r eval=FALSE}
 $ git remote add origin git@github.com:gitlogin/git-tips.git
 $ git push -u origin master
@@ -42,6 +43,10 @@ $ git push -u origin master
 
 * If you now go to http://github.com/gitlogin, you must find your files there! 
 
+### Clone a repository from github webpage to computer
+* Follow this link: https://help.github.com/articles/cloning-a-repository/
+
+### Move changed files from computer to webpage
 * If you make changes to your files, then the following commands will update the files locally. 
 ```{r eval=FALSE}
 $ git add modifiied-filenames
