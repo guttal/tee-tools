@@ -5,16 +5,98 @@ date: "27 October 2015"
 output: html_document
 ---
 
+#Presentation tips for beginners
+
+##Design of presentation
+The basic design principle of any scientific presentation is that you want to convey a clear take home message. To do so, you need to know your audience so that you know how to convey the main message. Invariably even scientific audience are dummies in your area of expertise. But never underestimate evern amatuer audience on their ability to grasp! 
+
+* Order of presentation
+    * Say what you are going to say (i.e., your take home message)
+    * Say what you said you will say (i.e., how you got your take home message)
+    * Say what you just said (i.e., repeat your take home message)    
+    
+## Design of slides
+
+What is the broad philosophy behind design slide? One extreme is to fill in each slide with a lot of information in the form of text and plots so that even if someone reads it, they get some point of the presentation. The other extreme is that you only have very basic things that can't be said (such as pictures, data, etc); and the speaker tells the story. 
+
+Irrespective of the above two approaches, the first point is to ensure that each slide conveys only one key point that naturally leads to the next slide. Its best to take use minimial text and convey the message clearly using words. You can use the text to reiterate the same point. 
+
+If multiple subpoints are unavoidable, use animations so that a cluttered slide does not flash on audiences. They will be distrated by it rather than listening to you. 
+
+### Title slide
+
+* A clear title is important.
+    * For short presentations at big meetings, see if you can succintly convey your results in the title.
+    * It could be a broather theme for seminars, etc. 
+* Listing authors
+    * For all conference talks when the abstract has multiple authors, list all of them on the title slide. 
+    * For invited talks, its okay to use only your name. But do acknowledge all collaboratots somewhere. 
+
+### Outline slide
+
+For very short talks, there is usually no need for an outline slide. But for a beginner, it may help to have an outline slide even for short talks of around 10-15 minutes. 
+
+For medium sized talks, its very helpful to have an outline slide. It helps when you are preparing your talk to organize your thoughts. It helps for the audience to know where are you in your flow of presentation. It helps you making connections that may be (unavoidably) spread across your talk. 
+
+Avoid reading the outline talk as "I will first present motivation, followed by methods and results". Everyone knows that anyway! So you need to narrate your outline slide saying more than what is written.  A recommended way to introduce an outline slide is after presenting the motivation for the question. Everyone knows you will start with motivation for your question, so there is no need for an outline slide at that the very beginning.  
+
+If an outline slide has four bullet points, and you are about to get into details of the third one:
+
+ * First point on motivation
+ * Second point on the first cool project
+ *  **Highlight this point you are going to begin now**
+ * Concluding section
 
 
-```{r}
-summary(cars)
-```
+For seminars at advanced stage of your phd, or post-doc and faculty level, you may need to start with a outline slide because you will probably present multiple projects. 
 
-You can also embed plots, for example:
+### Motivation slides
 
-```{r, echo=FALSE}
-plot(cars)
-```
+Use one clear example/previous work to motivate your question. At the end of that, you can say there are many more reasons why this is an interesting & motivating question! Do not start with too many examples of previous works since it may lead to misleading impressions to audiences: lot has been in your field (hence your work is useless) and you may end up confusing your question with those of previous works! 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+End your motivation slides with an online of your work. Clearly indicate your question and if possible a gist of your answer at this stage (so that the audience can sleep now).
+
+### Concluding slide
+
+ * Summarize what you have said very clearly (both questions and answers).
+
+## Formatting the content
+
+### Text
+
+ * Avoid too much text per slide. Do not have more than three bullet points per slide.
+ * Title should convery a message or pose a question.
+ * Titlecan pose a small question and a text at the end of slide the answer it.
+ * End the slide saying something that naturally leads to the next slide. 
+ 
+####Formatting suggestions: 
+
+ * Use single font type which is easy to read
+ * Typically you need two/three font sizes. One for title, one for bullet point and sub-bullet points. Use them consistently across the slides.
+ * Make sure you have good colour contrast betwen background and font size
+     * Black background with white colour
+     * White background with black colour. Some people prefer greyish background instead of white to avoid too much brighness of the background.
+* Using colours on light background
+     * Darkish blue can be used to highlight. It almost always looks good. An alternative is red, but use it sparingly.
+     * Avoid simultaneous use of red and green (for colour blind friends)
+     * NEVER use yellow! 
+ * For aesthetics, try google slide templates.     
+
+
+### Plots
+* Labels
+    * Clearly visible labels of x- anx y-axes and numbers.
+    * Clearly __write__ using words what different axes in your plot stand for (do not use symbols for labelling axes)
+    * Clearly __say__ what axes stand for to the audience, even if its clearly written
+    * If the axes name is technical (like spectral function), define them before showing the plot. 
+* Summarize the message/result of that graph in words. Highlight its importance to your broader question, anything interesting/counter-intuitive about the result. 
+
+* If there are multiple plots per slide, they should be connected to each other to answer a question. Show one by one using animations. 
+
+ 
+    
+
+
+### Animations
+
+
