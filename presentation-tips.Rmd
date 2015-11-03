@@ -8,7 +8,9 @@ output: html_document
 #Presentation tips for beginners
 
 ##Design of presentation
-The basic design principle of any scientific presentation is that you want to convey a clear take home message. To do so, you need to know your audience so that you know how to convey the main message. Invariably even scientific audience are dummies in your area of expertise. But never underestimate evern amatuer audience on their ability to grasp! 
+The basic design principle of any scientific presentation is that you want to convey a clear take home message. So think clearly on what is your take home message, then start preparing! 
+
+The next key aspect while you prepare your presentation is that you need to know your audience. Are they high school students, your peers in your area of expertize or any general scientific audience? Invariably even scientific audience are dummies in your area of expertise. However, one  must never underestimate evern amatuer audience on their ability to grasp! 
 
 * Order of presentation
     * Say what you are going to say (i.e., your take home message)
@@ -17,9 +19,9 @@ The basic design principle of any scientific presentation is that you want to co
     
 ## Design of slides
 
-What is the broad philosophy behind design slide? One extreme is to fill in each slide with a lot of information in the form of text and plots so that even if someone reads it, they get some point of the presentation. The other extreme is that you only have very basic things that can't be said (such as pictures, data, etc); and the speaker tells the story. 
+What is the broad philosophy behind designing slides? One extreme is to fill in each slide with a lot of information in the form of text and plots so that even if someone reads it, they get some point of the presentation. The other extreme is that you only have very basic things that can't be said (such as pictures, data, etc); and the speaker tells the story. 
 
-Irrespective of the above two approaches, the first point is to ensure that each slide conveys only one key point that naturally leads to the next slide. Its best to take use minimial text and convey the message clearly using words. You can use the text to reiterate the same point. 
+Irrespective of the above two approaches, the first point is to ensure that each slide conveys only one key point that naturally leads to the next slide. For a beginner, its best take the middle path of using minimal text per slide and convey the message clearly as you speak. You can use the text to reiterate the same point. 
 
 If multiple subpoints are unavoidable, use animations so that a cluttered slide does not flash on audiences. They will be distrated by it rather than listening to you. 
 
@@ -34,11 +36,13 @@ If multiple subpoints are unavoidable, use animations so that a cluttered slide 
 
 ### Outline slide
 
+An outline slide breaks your talk into subsections, such as motivation, methods, results and conclusions; or into different subprojects. Typically it is used right after the title slide to provide an overview/flow of the talk. 
+
 For very short talks, there is usually no need for an outline slide. But for a beginner, it may help to have an outline slide even for short talks of around 10-15 minutes. 
 
 For medium sized talks, its very helpful to have an outline slide. It helps when you are preparing your talk to organize your thoughts. It helps for the audience to know where are you in your flow of presentation. It helps you making connections that may be (unavoidably) spread across your talk. 
 
-Avoid reading the outline talk as "I will first present motivation, followed by methods and results". Everyone knows that anyway! So you need to narrate your outline slide saying more than what is written.  A recommended way to introduce an outline slide is after presenting the motivation for the question. Everyone knows you will start with motivation for your question, so there is no need for an outline slide at that the very beginning.  
+Avoid reading the outline slide as "I will first present motivation, followed by methods and results". Everyone knows that anyway! So you need to narrate your outline slide saying more than what is written.  
 
 If an outline slide has four bullet points, and you are about to get into details of the third one:
 
@@ -47,26 +51,34 @@ If an outline slide has four bullet points, and you are about to get into detail
  *  **Highlight this point you are going to begin now**
  * Concluding section
 
+We recommended that you introduce an outline slide not right after the title slide but after presenting the motivation for the question. Everyone knows you will start with motivation for your question, so there is no need for an outline slide at that the very beginning. 
 
-For seminars at advanced stage of your phd, or post-doc and faculty level, you may need to start with a outline slide because you will probably present multiple projects. 
+For seminars at advanced stage of your phd, or post-doc and faculty level, you may need to start with an outline slide because you will probably present multiple projects. 
 
 ### Motivation slides
 
-Use one clear example/previous work to motivate your question. At the end of that, you can say there are many more reasons why this is an interesting & motivating question! Do not start with too many examples of previous works since it may lead to misleading impressions to audiences: lot has been in your field (hence your work is useless) and you may end up confusing your question with those of previous works! 
+To motivate your question clearly: begin by identifying a broad question. Then use one (or two) clear example(s) from a previous work to identify what has been done, and what is not known. In the context of what is not known, define your question. At the end of motivating and defining your quetsion clearly, you can say there are many more reasons why this is an interesting & motivating question! 
 
-End your motivation slides with an online of your work. Clearly indicate your question and if possible a gist of your answer at this stage (so that the audience can sleep now).
+A common mistake for beginners is to provide a very long introductory part in your talk. If you do so, with too many examples of previous works, it may mislead audiences such as a lot has been in your field (hence your work is useless) and you may end up confusing your question with those of previous works! 
+
+End your motivation slides with an outline slide of your presentation. Clearly indicate your question, even at the cost of repetition. Some people suggest that you also provide a gist of your answer at this stage (so that even if the audience sleeps, they know the key result!).
+
 
 ### Concluding slide
 
  * Summarize what you have said very clearly (both questions and answers).
+
+## General points
+
+* Do not put long definitions on the slides. They are annoying. 
 
 ## Formatting the content
 
 ### Text
 
  * Avoid too much text per slide. Do not have more than three bullet points per slide.
- * Title should convery a message or pose a question.
- * Titlecan pose a small question and a text at the end of slide the answer it.
+ * Title of the slide should convery a message or pose a question.
+ * Title of the slide can pose a small question and a text at the end of slide the answer it.
  * End the slide saying something that naturally leads to the next slide. 
  
 ####Formatting suggestions: 
@@ -82,8 +94,8 @@ End your motivation slides with an online of your work. Clearly indicate your qu
      * NEVER use yellow! 
  * For aesthetics, try google slide templates.     
 
-
 ### Plots
+
 * Labels
     * Clearly visible labels of x- anx y-axes and numbers.
     * Clearly __write__ using words what different axes in your plot stand for (do not use symbols for labelling axes)
@@ -93,10 +105,29 @@ End your motivation slides with an online of your work. Clearly indicate your qu
 
 * If there are multiple plots per slide, they should be connected to each other to answer a question. Show one by one using animations. 
 
- 
-    
-
-
 ### Animations
+* Use animations when you have more than one bullet point per slide! 
 
+# Speaking tips
 
+* Speak slow. Speak clearly. (Especially to a non-Indian audience who may not understand your accent.)
+* Ask audience if you are audible in the beginning. 
+* Speak short sentences.
+* Talk to the audience, rather than to your slides. 
+* Preparing what you say:
+    * For each slide, write what exactly you would like to say in spoken language. This helps you clearly think how to present your ideas in words. 
+    * Writing does not mean you memorize everything. It is to get the order and flow of presentation as flawless as possible. 
+    * What you say must be different from what is on the slide. You must not just read out sentences from the slides, but use engaging speech. 
+    * When you are preparing slides, you intuitively think that you will know what to say when a slide comes. So you might think that words will flow automatically when the slide appears - but this is usually wrong. Most people are not so good speakers. So its important to think clearly on what to say for each slide. This will also help transition to next slide nicely.
+    * ___Rehearse___ at least two times before your actual presentation.
+* Avoid um's, yeah's, aa's, ok's, etc. They are annoying. Take a pause if you need to. 
+* If you can be funny, be funny. But don't be funny just for the sake of being funny.  
+* Avoid being monotonous. When you are excited about results, show the excitement in your tone!  
+* Using pointers: 
+    * Use the pointer to highlight key points on slides but sparingly. 
+    * If your slides are sparse, you don't need to use pointers much! If you use a laser pointer, don't keep your finger pressed on the button. 
+    * Its a common problem that a nervous presenter will forget this and point to audience! 
+    * The laser pointer may also be very jittery even when pointed on slides - try to control it properly by practicing before your presentation. 
+* At the end, thank the audience for coming to the talk! 
+
+# References
