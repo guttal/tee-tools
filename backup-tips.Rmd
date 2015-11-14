@@ -1,0 +1,79 @@
+---
+title: "rsync-tips"
+author: "U. R. Amith-Kumar"
+date: "9 November 2015"
+output: html_document
+---
+
+#Automatically backup your linux system
+
+Access remote computer without password so that no need to enter password
+every single time. Hit enter twice after first command.
+
+(All commands in blue)
+* Open the terminal
+* Type the command: ssh-keygen -t dsa
+    * Generating public/private dsa key pair. 
+    * Enter file in which to save the key (/Users/vishu/.ssh/id_dsa): [Press enter]
+    * Enter passphrase (empty for no passphrase): [Press enter]
+    * Enter same passphrase again: [Press enter]
+    * Your identification has been saved in /Users/vishu/.ssh/id_dsa. [Press enter with or wihout passphrase]
+    * Your public key has been saved in /Users/vishu/.ssh/id_dsa.pub.
+    * The key fingerprint is: xxxxxx vishu@Vishweshas-MacBook-Air.local
+    * The key's randomart image is:(will show some image)
+* ssh-copy-id -i ~/.ssh/id_dsa.pub amith@10.58.97.44
+
+To do automatic backup, use the following command
+
+* crontab -e (for ubuntu)
+* env EDITOR=nano crontab -e (on mac)
+
+ you will get crontab file, something like this :
+##-------------------------------------------------------------------------------
+# Edit this file to introduce tasks to be run by cron.
+#
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+#
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').#
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# For eg: 0 15 * * *(means 3 pm everyday)
+#
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+#
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+#
+# For more information see the manual pages of crontab(5) and cron(8)
+#
+# m h  dom mon dow   command
+##-------------------------------------------------------------------------------
+In the crontab file you need to enter following lines and edit your source folder and destination folder. enter backup time, here in my case its 2pm every day. For example if you want to  backup every day at 10:30 pm, you need to enter  30 22 * * * before rsync. You can use --delete option next to -rca if you dont want to backup deleted files. 
+
+Copy this into the last line of crontab file. Note that complete command line should be in one single line.
+
+0 14 * * * rsync -e "ssh" -rca /home/your_name/source_folder_name your_login_ID@10.58.97.44:/home/your_name/backup_folder_name/
+
+Hit ‘cntrl + o’ to save then hit ‘enter’ then  ‘cntrl + x ‘ to exit.
+To check whether the crontab file is edited or not
+type ‘crontab -l’ 
+
+Create the source_folder and backup folder in required directories and type correct complete path in the crontab file. 
+#########################         THATS ALL   ##############################
+For more details and information refer following links. 
+
+http://ubuntuforums.org/showthread.php?t=15082 
+
+http://www.howtogeek.com/135533/how-to-use-rsync-to-backup-your-data-on-linux/ 
+
+http://www.petefreitag.com/item/549.cfm
+
+http://www.rackspace.com/knowledge_center/article/automating-a-daily-rsync-backup
+
+

@@ -26,4 +26,6 @@ This respository contains various documents that:
 
 [Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd) (Incomplete)
 
+[Useful links](https://github.com/guttal/tee-tools/blob/master/useful-articles.Rmd) (Incomplete)
+
 

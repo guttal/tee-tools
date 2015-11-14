@@ -1,0 +1,16 @@
+---
+title: "Useful links"
+author: "Vishwesha Guttal"
+date: "14 November 2015"
+output: html_document
+---
+
+#Is it okay to quit PhD?
+
+Absolutely yes. For various reasons that will be different for different people, ranging from changes in research interests to health issues to realisation that academic job just does not interest you. 
+
+Below are a few articles.
+
+[Cost of PhD](http://qz.com/547641/theres-an-awful-cost-to-getting-a-phd-that-no-one-talks-about/)
+
+
