@@ -20,9 +20,20 @@ This respository contains various documents that:
 
 [Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd) (Incomplete)
 
+
+[Sexual Harassment Policy] (To be done)
+
 ## Helpful Tools/Skills for Research
 
 [How to read scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
+
+[Presentation tips](https://github.com/guttal/tee-tools/blob/master/presentation-tips.Rmd)
+
+[Dos and Donts on Field Trips] (To be done)
+
+[Useful links on research life] (To be done)
+
+[Plotting tips] (Incomplete)
 
 [Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd) (Incomplete)
 
