@@ -34,6 +34,9 @@ $ git status
 $ git log
 ```
 
+### If you are behind a proxy
+* If you are behind a proxy, visit [this link](http://nknu.net/git-through-proxy/) and follow the instructions to add proxy settings to git.
+
 ### Move files from computer to github webpage/login
 * This following specific step is required only the first time. Move these files to the github server where your login name is gitlogin
 ```{r eval=FALSE}
@@ -42,6 +45,7 @@ $ git push -u origin master
 ```
 
 * If you now go to http://github.com/gitlogin, you must find your files there! 
+
 
 ### Clone a repository from github webpage to computer
 * Follow this link: https://help.github.com/articles/cloning-a-repository/

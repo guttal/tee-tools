@@ -1,0 +1,44 @@
+---
+title: "plotting-tips"
+author: "TEE-LAB"
+date: "June 2016"
+output: html_document
+---
+
+   	 	 	
+## Essense of plotting
+
+Ensure that the main point to be communicated literally jumps out at the viewer. Focus on clarity - show the figure to many people and see if they get the message you are trying to convey. 
+
+This requires the plotter to carefully think and decide what to plot, choosing right axes, right scales, right set of data to emphasize the point (this is not same as throwing away inconvenient patterns of data). 
+
+The next step is to come ensure that key features like data points, labels, legends, etc are all visible! 
+
+### Data
+
+If the figure has a trendline, ensure that it includes data with it.  Be prudent about the statistics that you include in figure - only include what is relevant to the information you want to communicate through the figure. Ensure that it informs more than distracts from main message. In general, use solid points for the data rather than hollow ones. Use colour-blind friendly colours for your plots. 
+
+### Caption
+
+The caption should begin with a title/summary which should be what the graph is basically meant to demonstrate. The caption should include all information necessary for the figure to be self explanatory (i.e independent of the text). The axes (and the plotted relationship between them) should be clearly explained. Don't use undefined parameters in the caption.
+
+### Legend
+
+It BETTER be there! Use regular and big (clearly visible) fonts and symbols/colours. Keep the legend simple and avoid using undefined parameters. Some people don't prefer box around legend. 
+
+### Axes
+
+Label the axes properly. Don’t forget units. Fonts should be clearly visible.  Helvetica usually works very nice.One rule of thumb is that if you are not usign the entire x-axis or y-axis space to write your label, you can increase your font size a bit. 
+
+Have ticks but try to restrict to 2-4 labelled ticks per axis. 
+
+Refer Figure1 of Fryxell Sinclair… well done it is!
+
+### Some useful links (came up during the discussion)
+   * [You can make interactive graphs](https://d3js.org/)
+   * [You can make wonderful plots online](https://plot.ly/)
+   * [This is a wonderful plot!](http://goo.gl/XRBXsD)
+   * [How to convert e+10 to 10^10](http://stackoverflow.com/questions/9397664/force-r-not-to-use-exponential-notation-e-g-e10)
+
+
+
