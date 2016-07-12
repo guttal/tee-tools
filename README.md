@@ -21,21 +21,21 @@ This respository contains various documents that:
 
 [Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd)
 
-[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd)
+[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd) (NEW)
 
 ## Helpful Tools/Skills for Research
 
-[How to read scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
+[Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) (NEW)
+
+[Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
+
+[Reading scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
+
+[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd) (NEW)
 
 [Presentation tips](https://github.com/guttal/tee-tools/blob/master/presentation-tips.Rmd)
 
-[Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd)
-
 [Useful links on research life](To be done)
-
-[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd)
-
-[Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
 
 [Useful links](https://github.com/guttal/tee-tools/blob/master/useful-articles.Rmd)
 
