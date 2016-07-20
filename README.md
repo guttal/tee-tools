@@ -27,6 +27,8 @@ This respository contains various documents that:
 
 [Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) (NEW)
 
+[Field ethics](https://github.com/guttal/tee-tools/blob/master/field-ethics.Rmd) (NEW)
+
 [Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
 
 [Reading scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
