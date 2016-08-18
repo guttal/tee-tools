@@ -9,7 +9,7 @@ output: html_document
 
 ### Letter of employment 
 
-Collect a letter from the adviser stating your appointment and duration. This serves as your proof of employment. Also useful for opening bank account.
+Collect a letter from the adviser stating your appointment and duration. This serves as your proof of employment. Also useful for opening bank account. Here is the [template letter](https://drive.google.com/open?id=0BzKgj-oZPxI3bV9UZS1oeDJybzQ) that you can download, modify, print and take signature from your adviser.
 
 ### Formal appointment 
 
@@ -17,11 +17,11 @@ If you are formally appointed as Project Assistant / Project Trainee / JRF / SRF
 
 ### Bank account
 
-For project assistant/trainee positions, open an account in SBI or Canara Bank of IISc. You will need your appointment letter as proof of your address and perhaps one or two photographs to open the account. Your will be asked to provide your account number once the formal appointment letter arrives from the administration.
+For project assistant/trainee positions, open an account in SBI or Canara Bank of IISc. You will need your appointment letter as proof of your address and perhaps one or two photographs to open the account. Fill the form online before going to the branch office on campus. Canara bank also has a branch on campus but apparently their service is not very good. You will be asked to provide your account number once the formal appointment letter arrives from the administration.
 
 ### IISc security/ID card
 
-Take the "letter of employment" from the adviser to the finance and account office in front of JRD Tata library, pay the fee of id card (Rs.25), with this receipt go to the security office (near Prakruti) along withtwo stamp size photos, to get your IISc id card.  
+Take the "letter of employment" from the adviser to the finance and account office in front of JRD Tata library, pay the fee of id card (Rs.25), with this receipt go to the security office (near Prakruti) along with two stamp size photos, to get your IISc id card.  
 
 ### Access to Library 
 
@@ -33,7 +33,7 @@ Check if the adviser can provide you a key for lab. It is your responsibility to
 
 ### Tech stuff
 
-* Request for a CES email id, Lotka-Volterra login and/or ces-mailing list through your adviser to Mr. Janardhanan Pillai jp@ces.iisc.ernet.in
+* Request for a CES email id, Lotka-Volterra login and inclusion in ces-mailing lists to Arun (mcarun1990@gmail.com). 
 
 * Proxy settings for LAN (connect a lan cable from the student desk to your laptop): If you are sitting on any of the two student desks, they are both on Lotka-Volterra lab V-LAN. These are configs you need (for mac to to System Preferences -> Network and then Ethernet option on the left column):  
     + Configure IPv4: Manually
