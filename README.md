@@ -7,7 +7,7 @@ This respository contains various documents that:
     + provides quick links to developing various skills for all lab members
     + NOTE that most documents are work in progress.
 
-## Lab Adminsitration
+## Lab Adminisitration
 
 [New student admin orientation](https://github.com/guttal/tee-tools/blob/master/new-student-admin.Rmd)
 
@@ -19,25 +19,24 @@ This respository contains various documents that:
 
 [Authorship guidelines](https://github.com/guttal/tee-tools/blob/master/guidelines-for-authorship.Rmd) 
 
-[Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd)
+[Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd) (Incomplete)
 
-[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd) (NEW)
+[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd)
+
+[Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) 
+
+[Field Ethics](https://github.com/guttal/tee-tools/blob/master/field-ethics.Rmd) 
 
 ## Helpful Tools/Skills for Research
-
-[Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) (NEW)
-
-[Field ethics](https://github.com/guttal/tee-tools/blob/master/field-ethics.Rmd) (NEW)
 
 [Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
 
 [Reading scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
 
-[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd) (NEW)
+[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd)
 
 [Presentation tips](https://github.com/guttal/tee-tools/blob/master/presentation-tips.Rmd)
 
-[Useful links on research life](To be done)
+[Writing tips]
 
-[Useful links](https://github.com/guttal/tee-tools/blob/master/useful-articles.Rmd)
-
+[Useful links on research life](https://github.com/guttal/tee-tools/blob/master/useful-articles.Rmd)

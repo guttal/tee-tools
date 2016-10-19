@@ -1,0 +1,31 @@
+---
+title: "Skills for Research"
+author: "Vishwesha Guttal"
+date: "25 August 2016"
+output: html_document
+---
+
+### Communication Skills
+   * Scientific writing
+   * Oral presentations
+   * Plotting results
+   * Illustrations 
+
+### Generic soft skills
+   * People management (e.g. adviser, labmates, admin, etc)
+   * Patience and perseverence
+   * Large task management
+   
+### Technical skills
+   * Coming up with ideas
+   * Planning 
+   * Learning appropriate methods to execute
+   * Executing ideas
+   * Data management
+   * Grant raising (proposal writing)
+
+### Research Ethics
+    * Field ethics
+    * Lab and animal ethics
+    * Workplace harassment
+    * Publication ethics
