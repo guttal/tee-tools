@@ -5,20 +5,27 @@ date: "10/7/2016"
 output: html_document
 ---
 
-Tips to write short synthesis and critique of scientific papers
+#Tips to write short synthesis
 
-Who is your target audience? We are thinking of scientific audience who may not necessarily be experts in the field that this paper describes. 
+### Before you write 
 
-From the summary you provide, the reader must be able to get a gist of the paper without having read the paper!
+Decide who is your target audience. We are often thinking of scientific audience who may not necessarily be experts in the paper you are summarising. From the summary you provide, the reader must be able to get a gist of the paper without having read the paper!
 
-Before you write, read the paper thoroughly and have an idea of what the salient points that you want to raise. 
+Before you write, [read the paper thoroughly](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd). Make a list of a few salient points that you want to raise. 
 
-As far as possible write in your own words and do not copy from the paper. Also note that there is no need for you to cite or read additional material as this should be a summary of the current paper only. 
+Write in your own words. Do not copy text from the paper. There is no need for you to cite or read additional material as this should be a summary of the current paper only. 
+
+### Structure of the write up 
 
 You can keep in mind this outline while structuring your summary
-Background of the topic 
-Describe what they did + Findings/Results (can also go in at the end of the background paragraph)
-Provide your opinion on the paper
+   
+   * Background of the topic 
+   * Describe what they did + Findings/Results (can also go in at the end of the background paragraph)
+   * Provide your opinion on the paper
+    
+### Clarity, Flow and Coherence
 
-To improve the readability, each section should lead into the next one easily. 
-Refrain from introducing technical terms, or if you have to pease define them when they first appear. 
+## References
+
+[20 ways to improve your writing](http://academiclifehistories.weebly.com/blog/20-ways-to-improve-your-paper-a-journal-club-introspective)
+

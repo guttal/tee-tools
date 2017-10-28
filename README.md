@@ -13,30 +13,29 @@ This respository contains various documents that:
 
 ## Lab Policies
 
-[Doing Science](https://github.com/guttal/tee-tools/blob/master/doing-science.Rmd) (Incomplete)
-
-[Workplace ethics] (Incomplete) 
-
 [Authorship guidelines](https://github.com/guttal/tee-tools/blob/master/guidelines-for-authorship.Rmd) 
 
 [Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd) (Incomplete)
 
-[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd)
+[exual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd)
 
 [Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) 
 
 [Field Ethics](https://github.com/guttal/tee-tools/blob/master/field-ethics.Rmd) 
 
-## Helpful Tools/Skills for Research
 
-[Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
+[Workplace ethics] (Incomplete)
+
+## Helpful Tools/Skills for Research
 
 [Reading scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
 
-[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd)
+[Writing tips]
 
 [Presentation tips](https://github.com/guttal/tee-tools/blob/master/presentation-tips.Rmd)
 
-[Writing tips]
+[Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd)
+
+[Git tips](https://github.com/guttal/tee-tools/blob/master/git-tips.Rmd)
 
 [Useful links on research life](https://github.com/guttal/tee-tools/blob/master/useful-articles.Rmd)

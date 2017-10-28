@@ -1,0 +1,86 @@
+---
+title: "Research and life in the lab"
+author: "Vishwesha Guttal"
+date: "10/28/2016"
+output: html_document
+---
+
+Welcome to __TEE-Lab__, short form for **T**heoretical **E**cology and **E**volution Lab at the Centre for Ecological Sciences, Indian Institute of Science, Bengaluru. 
+
+### What do we do?
+Before explaining what we do, let me say what we don't: We do NOT work  on environmental pollution, ecological conservation and environmental policy. Almost everyone of us have deep interest and concern for these issues. There are some occasional projects that do address some questions related to them. Research findings of our lab may also help in addressing some of these questions. But they do not form the focus of our research, at least as of today! 
+
+Now, here is what we do: We try to answer basic questions in ecological self-organisation. We take a rather uncoventional approach to studying questions in ecology. This comes from our perspective of ecological systems as a large number of interacting living individuals. [This article in Resonance](http://www.ias.ac.in/article/fulltext/reso/019/04/0368-0375) explains our perspective. 
+
+We focus on questions motivated by the following broad themes:
+
+(a) What causes self-organized patterns in biological systems? In particular, we look at spatial patterns of vegetation of semi-arid ecosystems and coordinated behaviour in animal groups such as schools of fish or flocks of birds or herds of blackbuck. We are interested in knowing (i) how simple local interactions among individuals cause these spectacular large-scale patterns. (ii) Can we describe these patterns and dynamics using mathematical equations? (c) Are these general principles that can be applied across different types of systems? 
+
+(b) It turns out that some of the ecosystems can abruptly switch to another state. Imagine a clear water lake turning turbid ‘overnight’, or a population suddenly going extinct, or an unexpected stock market crash leading to global recession. Can we predict such changes before they happen?
+
+(c) Darwin’s evolutionary theory posits that selfish individuals are typically at an advantage at survival and reproduction in comparison to non-selfish individuals. How do selfish individuals gain benefit by showing collective animal behaviours such as schooling, swarming, etc?
+
+### How do we answer these questions?
+
+The name of our lab emphasises theory. [Many](http://www.pnas.org/content/107/37/16172) of our [projects](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9WKrHfGyqu4YTYzNmY1MjEtNjU0OS00ZGMzLTllZTEtMzllOTFiZmI1NDBm&hl=en_US&authkey=CM2Q4bAI) are heavily [mathematical](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9WKrHfGyqu4MzY5ZDY5Y2MtNmM4NS00Y2M0LWE4NGEtY2E1NWIzM2Q2ODdm&hl=en_US&authkey=CKW-yeEG) and [computational](https://docs.google.com/file/d/0B9WKrHfGyqu4RXpmaTJiQ3BGOTA/edit). In these projects, our motivation is often to explore interesting principles of ecological organisation and dynamics. We aim to [develop](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9WKrHfGyqu4YTYzNmY1MjEtNjU0OS00ZGMzLTllZTEtMzllOTFiZmI1NDBm&hl=en_US&authkey=CM2Q4bAI) statistical [tools](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0041010) to analyse real ecological data within theoretical [frameworks](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092097#authcontrib). Such projects often involve no real data analysis.  
+
+However, by no means we work only on theoretical models. [Several](http://www.sciencemag.org/content/337/6099/1212.abstract) of [our](https://docs.google.com/file/d/0B9WKrHfGyqu4NE9NejFETHJPbmM/edit?usp=sharing) projects involve [both](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144198) theory and empirical work. The focus on such projects is in [integrating](http://www.sciencemag.org/content/337/6099/1212.abstract) theory and data. We test predictions made by our mathematical theories. We test how well the tools developed by our theory work in real world [data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144198). Data may come from lab or field works. 
+
+Apart from pure theorists, we also look for students skilled in experimental and field work. We are often looking for peole who can integrate theory with real data; this is a skill that is more difficult and challenging than working with either theory or data alone. 
+
+### Functioning of the lab
+
+
+The lab work is highly interdisciplinary. Study system varies from plants to animals. Techniques vary from highly theoretical to field data collection. Therefore, learning, appreciating and critiquing different ways of doing science becomes important. Therefore, we learn and research collectively and collaboratively in the lab. We also collaborate with various other labs within and oustide India. 
+
+In our lab, students focus on learning a whole range of skills apart from research techniques specific to their project. Students learn various techniques and research questions through discussions with others in the lab . We have lab meetings at least once a week that runs for at least half a day. Some of our lab meetings focus on progress of projects. Many of these lab meetings are about learning various soft skills such as how to write scientific papers, how to make presentations, career choices, scientific ethics, etc. 
+
+Many of our projects are collaborative within and outside the lab. Some of our PhD students have joint advisers (within and some outside CES.)
+
+Owing to the collective and collaborative nature of our lab, there is an implicit expectation that lab members do come to frequently to the lab. However, there is no one rule. Some students come everyday, some come half the time whereas some prefer to work from home except on days having group activities like lab meeting. It is good to discuss your prerefence with me and set the expectations clear. 
+
+There is a resource link on the lab webpage which lists a number of articles on doing good science: http://teelabiisc.wordpress.com/resources/
+
+<! To do good science, there is no substitute for quality time spent thinking about and working on your project. To do well in your project, you need to be focussed but you should also develop broader interest in all areas of ecology (and all of science!) even if you do not find them to be of immediate relevance to your work. Some of the best ideas come in informal settings, so talk with your friends during lunch/coffee/tea breaks. Put simply: be curious about nature! >
+
+<!However, don’t spend all your time at your desk unless there is some deadline looming over you. Go for walks on our beautiful campus, or go out into the city (if you don’t mind noise and traffic!), watch movies and read fiction -- any hobby that keeps you energized. Basically have fun in both your academic and non-academic life. All these will help you do good science.>
+
+<!Get involved in scientific discussions as much as you can, in lab meetings, journal club meetings, departmental seminars & documentaries, etc.> 
+
+<!Although we aim to look at fundamental and general principles, we often start with simple known models of ecological phenomena like self-organisation in animal groups or vegetation patterns; we then explore them in detail by introducing some realistic features.>
+
+### Skills to learn
+
+We emphasize that students learn various soft skills, irrespective of they want to continue in the academic career. 
+
+   * [Reading scientic papers](https://github.com/guttal/tee-tools/blob/master/how-to-read-papers.Rmd)
+   * But what to read, how to find them (NO DOCUMENT YET).
+   * Write well. Take courses.
+   * [Presentation tips](https://github.com/guttal/tee-tools/blob/master/presentation-tips.Rmd)
+   * [Plotting tips](https://github.com/guttal/tee-tools/blob/master/plotting-tips.Rmd)
+
+   <!* Stress management>
+  <! * People management for lab members:>
+<!      * Managing a stressed labmate>
+<!      * Managing a stressed PI>
+<!      * Managing romantic relationships within and outside lab>
+<!   * Asking questions. Connecting different papers to come to a thematic synthesis. >
+
+### Lab Policies
+
+[New student admin orientation](https://github.com/guttal/tee-tools/blob/master/new-student-admin.Rmd)
+
+[Authorship guidelines](https://github.com/guttal/tee-tools/blob/master/guidelines-for-authorship.Rmd) 
+
+[Data and code sharing](https://github.com/guttal/tee-tools/blob/master/data-code-sharing.Rmd) (Incomplete)
+
+[Sexual Harassment Policy](https://github.com/guttal/tee-tools/blob/master/sexual-harassment.Rmd)
+
+[Field Safety](https://github.com/guttal/tee-tools/blob/master/field-safety.Rmd) 
+
+[Field Ethics](https://github.com/guttal/tee-tools/blob/master/field-ethics.Rmd) 
+
+
+
+
+
